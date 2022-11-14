@@ -1516,3 +1516,883 @@ Continue: Skip saving this asset only.
 [2022.11.14-05.43.12:124][526]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
 [2022.11.14-05.43.12:124][526]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2022.11.14-05.43.12:344][526]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.14:134][532]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.14:134][532]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.14:134][532]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.14:354][532]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.16:243][538]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.16:243][538]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.16:243][538]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.16:375][538]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.18:255][544]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.18:255][544]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.18:255][544]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.18:390][544]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.20:267][550]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.20:267][550]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.20:267][550]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.20:414][550]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.22:280][556]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.22:280][556]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.22:280][556]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.22:448][556]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.24:293][562]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.24:293][562]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.24:293][562]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.24:460][562]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.26:305][568]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.26:305][568]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.26:305][568]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.26:473][568]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.28:320][574]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.28:320][574]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.28:320][574]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.28:488][574]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.30:330][580]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.30:330][580]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.30:330][580]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.30:498][580]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.32:343][586]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.32:343][586]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.32:344][586]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.32:502][586]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.34:356][592]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.34:356][592]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.34:357][592]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.34:516][592]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.35:872][597]LogHttp: Warning: 000001AD8A115600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5DA713FB-4624-BC3E-64E7-CA816AC5FCF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=55784371482d9dc4200041b5bf2276ca%7Ce3cad16dd57a483db8ed94e0d127fa85%7Cf6f77c30-da3f-4c5a-bcb9-1bf3b6ed7b35&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.14-05.43.35:872][597]LogHttp: Warning: 000001AD8A115600: request failed, libcurl error: 0 (No error)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ad21f47eb0 [can pipeline])
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.215.237) port 443 (#1))
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 7 (Closing connection 1)
+[2022.11.14-05.43.35:873][597]LogHttp: Warning: 000001AD8A115600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.11.14-05.43.36:206][598]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5DA713FB-4624-BC3E-64E7-CA816AC5FCF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=55784371482d9dc4200041b5bf2276ca%7Ce3cad16dd57a483db8ed94e0d127fa85%7Cf6f77c30-da3f-4c5a-bcb9-1bf3b6ed7b35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.14-05.43.36:370][598]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.36:370][598]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.36:370][598]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.36:538][598]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.38:380][604]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.38:380][604]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.38:380][604]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.38:551][604]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.40:392][610]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.40:392][610]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.40:392][610]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.40:559][610]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.42:406][616]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.42:406][616]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.42:406][616]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.42:569][616]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.44:419][622]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.44:419][622]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.44:419][622]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.44:588][622]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.46:434][628]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.46:434][628]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.46:434][628]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.46:602][628]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.48:445][634]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.48:445][634]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.48:445][634]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.48:615][634]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.50:457][640]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.50:457][640]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.50:457][640]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.50:635][640]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.52:466][646]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.52:466][646]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.52:466][646]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.52:649][646]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.54:476][652]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.54:476][652]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.54:476][652]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.54:681][652]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.56:487][658]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.56:487][658]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.56:488][658]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.56:703][658]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.43.58:499][664]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.43.58:499][664]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.43.58:499][664]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.43.58:717][664]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.00:510][670]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.00:510][670]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.00:510][670]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.00:729][670]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.02:525][676]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.02:525][676]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.02:525][676]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.02:732][676]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.04:635][682]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.04:635][682]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.04:635][682]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.04:760][682]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.06:647][688]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.06:647][688]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.06:648][688]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.06:779][688]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.08:658][694]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.08:658][694]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.08:658][694]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.08:803][694]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.10:669][700]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.10:669][700]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.10:669][700]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.10:814][700]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.12:678][706]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.12:678][706]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.12:678][706]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.12:827][706]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.14:693][712]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.14:693][712]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.14:694][712]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.14:855][712]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.16:704][718]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.16:704][718]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.16:704][718]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.16:871][718]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.18:712][724]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.18:712][724]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.18:712][724]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.18:894][724]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.20:723][730]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.20:723][730]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.20:723][730]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.20:901][730]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.22:735][736]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.22:735][736]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.22:735][736]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.22:916][736]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.24:745][742]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.24:745][742]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.24:745][742]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.24:938][742]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.26:754][748]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.26:754][748]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.26:755][748]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.26:962][748]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.28:764][754]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.28:764][754]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.28:765][754]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.28:983][754]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.30:875][760]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.30:875][760]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.30:875][760]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.31:008][760]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.32:884][766]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.32:884][766]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.32:884][766]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.33:028][766]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.34:895][772]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.34:896][772]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.34:896][772]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.35:041][772]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.36:909][778]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.36:909][778]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.36:909][778]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.37:066][778]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.38:921][784]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.38:921][784]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.38:921][784]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.39:079][784]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.40:933][790]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.40:933][790]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.40:933][790]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.41:095][790]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.42:946][796]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.42:946][796]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.42:946][796]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.43:114][796]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.44:958][802]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.44:958][802]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.44:958][802]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.45:126][802]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.46:972][808]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.46:972][808]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.46:972][808]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.47:141][808]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.48:985][814]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.48:985][814]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.48:985][814]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.49:154][814]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.50:996][820]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.50:996][820]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.50:996][820]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.51:180][820]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.53:012][826]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.53:012][826]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.53:012][826]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.53:192][826]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.55:020][832]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.55:020][832]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.55:020][832]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.55:212][832]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.57:031][838]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.57:031][838]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.57:031][838]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.57:235][838]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.44.59:043][844]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.44.59:043][844]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.44.59:043][844]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.44.59:250][844]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.01:056][850]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.01:056][850]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.01:057][850]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.01:261][850]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.03:067][856]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.03:067][856]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.03:067][856]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.03:284][856]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.05:078][862]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.05:078][862]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.05:078][862]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.05:297][862]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.07:088][868]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.07:088][868]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.07:088][868]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.07:305][868]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.09:098][874]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.09:098][874]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.09:098][874]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.09:326][874]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.11:113][880]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.11:113][880]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.11:113][880]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.11:342][880]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.13:127][886]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.13:127][886]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.13:127][886]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.13:346][886]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.15:141][892]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.15:141][892]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.15:141][892]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.15:354][892]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.17:155][898]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.17:155][898]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.17:155][898]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.17:371][898]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.19:167][904]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.19:167][904]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.19:167][904]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.19:385][904]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.21:177][910]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.21:177][910]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.21:177][910]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.21:397][910]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.23:190][916]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.23:190][916]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.23:190][916]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.23:415][916]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.25:302][922]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.25:302][922]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.25:302][922]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.25:424][922]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.27:314][957]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.27:314][957]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.27:314][957]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.27:344][957]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.28:939][  1]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.14-05.45.28:958][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.14-05.45.28:960][  1]PIE: New page: PIE session: Minimal_Default (Nov 13, 2022, 5:45:28 PM)
+[2022.11.14-05.45.28:962][  1]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.11.14-05.45.29:254][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.292060s)
+[2022.11.14-05.45.29:256][  1]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.11.14-05.45.29:259][  1]LogPlayLevel: PIE: World Init took: (0.004320s)
+[2022.11.14-05.45.29:259][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.297138s)
+[2022.11.14-05.45.29:322][  1]LogUObjectHash: Compacting FUObjectHashTables data took  15.60ms
+[2022.11.14-05.45.29:333][  1]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.14-05.45.29:333][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.14-05.45.29:334][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.14-05.45.29:334][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.14-05.45.29:334][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.14-05.45.29:334][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.14-05.45.29:334][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.14-05.45.29:334][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.14-05.45.29:334][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.14-05.45.29:336][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.14-05.45.29:336][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.14-05.45.29:336][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.14-05.45.29:336][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.14-05.45.29:344][  1]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.14-05.45.29:344][  1]LogAudioMixer: Display: 1: FrontRight
+[2022.11.14-05.45.29:363][  1]LogAudioMixer: Display: Using Audio Device 1 - LEN S24q-10 (AMD High Definition Audio Device)
+[2022.11.14-05.45.29:364][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.14-05.45.29:364][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.14-05.45.29:364][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.14-05.45.29:366][  1]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.14-05.45.29:366][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.14-05.45.29:366][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.14-05.45.29:370][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.14-05.45.29:370][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.14-05.45.29:370][  1]LogInit: FAudioDevice initialized.
+[2022.11.14-05.45.29:370][  1]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.11.14-05.45.29:398][  1]LogLoad: Game class is 'GameModeBase'
+[2022.11.14-05.45.29:434][  1]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.11.13-23.45.29
+[2022.11.14-05.45.29:435][  1]LogWorld: Bringing up level for play took: 0.035721
+[2022.11.14-05.45.29:436][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.11.14-05.45.29:445][  1]PIE: Server logged in
+[2022.11.14-05.45.29:447][  1]PIE: Play in editor total start time 0.49 seconds.
+[2022.11.14-05.45.30:324][  3]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.30:324][  3]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.30:324][  3]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.30:340][  4]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.31:738][ 58]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.31:739][ 58]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.31:739][ 58]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.31:758][ 59]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.33:757][144]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.33:757][144]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.33:757][144]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.33:782][145]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.34:562][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.14-05.45.34:562][189]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.11.14-05.45.34:564][189]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-05.45.34:569][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-05.45.34:581][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.14-05.45.34:630][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-05.45.34:656][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.14-05.45.34:656][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.14-05.45.34:658][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.14-05.45.34:661][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.14-05.45.34:702][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.11.14-05.45.34:770][190]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.11.14-05.45.34:971][191]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.34:971][191]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.34:971][191]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.34:991][192]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.36:990][222]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.36:990][222]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.36:990][222]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.37:124][222]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.39:005][228]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.39:005][228]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.39:005][228]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.39:138][228]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.41:019][234]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.41:019][234]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.41:019][234]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.41:151][234]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.43:030][240]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.43:031][240]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.43:031][240]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.43:168][240]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.45:047][246]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.45:047][246]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.45:047][246]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.45:181][246]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.47:063][252]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.47:063][252]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.47:063][252]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.47:196][252]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.49:074][258]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.49:074][258]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.49:074][258]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.49:214][258]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.51:087][264]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.51:087][264]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.51:087][264]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.51:235][264]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.53:101][270]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.53:101][270]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.53:101][270]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.53:265][270]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.55:116][291]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.55:116][291]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.55:116][291]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.55:145][292]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.56:330][334]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.56:330][334]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.56:330][334]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.56:370][335]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.58:345][433]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.58:345][433]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.58:345][433]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.58:369][434]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.45.59:553][476]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.45.59:553][476]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.45.59:554][476]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.45.59:712][476]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.46.00:251][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.11.14-05.46.03:290][478]LogSlate: Window 'Save Content' being destroyed
+[2022.11.14-05.46.03:341][478]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2022.11.14-05.46.03:676][479]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.11.14-05.46.03:676][479]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.11.14-05.46.03:676][479]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.11.14-05.46.03:689][479]Cmd: QUIT_EDITOR
+[2022.11.14-05.46.03:689][479]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.14-05.46.03:694][479]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.14-05.46.03:713][479]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.14-05.46.04:360][479]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.14-05.46.04:360][479]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.14-05.46.04:360][479]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.11.14-05.46.04:360][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.14-05.46.04:363][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.14-05.46.04:390][479]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.14-05.46.04:393][479]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.14-05.46.04:418][479]LogExit: Preparing to exit.
+[2022.11.14-05.46.04:538][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.11.14-05.46.05:449][479]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-05.46.05:859][479]LogExit: Editor shut down
+[2022.11.14-05.46.05:869][479]LogExit: Transaction tracking system shut down
+[2022.11.14-05.46.05:994][479]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.14-05.46.08:173][479]LogExit: Object subsystem successfully closed.
+[2022.11.14-05.46.08:214][479]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.14-05.46.08:215][479]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.14-05.46.08:215][479]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.14-05.46.08:215][479]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.11.14-05.46.08:215][479]LogShaderCompilers: Display: ================================================
+[2022.11.14-05.46.08:274][479]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.14-05.46.08:545][479]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2022.11.14-05.46.08:545][479]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2022.11.14-05.46.08:546][479]LogModuleManager: Shutting down and abandoning module SequencerWidgets (874)
+[2022.11.14-05.46.08:546][479]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.11.14-05.46.08:546][479]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.11.14-05.46.08:546][479]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.11.14-05.46.08:546][479]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.11.14-05.46.08:575][479]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.11.14-05.46.08:575][479]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.11.14-05.46.08:575][479]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.11.14-05.46.08:577][479]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.11.14-05.46.08:578][479]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.11.14-05.46.08:578][479]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.11.14-05.46.08:578][479]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.11.14-05.46.08:579][479]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.11.14-05.46.08:579][479]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.11.14-05.46.08:582][479]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.11.14-05.46.08:587][479]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.11.14-05.46.08:587][479]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.11.14-05.46.08:588][479]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.11.14-05.46.08:588][479]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.11.14-05.46.08:588][479]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.11.14-05.46.08:588][479]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.11.14-05.46.08:592][479]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2022.11.14-05.46.08:594][479]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.11.14-05.46.08:594][479]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.11.14-05.46.08:596][479]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2022.11.14-05.46.08:596][479]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (824)
+[2022.11.14-05.46.08:596][479]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (822)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (820)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (814)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (812)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module WebMMedia (810)
+[2022.11.14-05.46.08:597][479]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2022.11.14-05.46.08:599][479]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (806)
+[2022.11.14-05.46.08:601][479]LogModuleManager: Shutting down and abandoning module SequenceRecorder (805)
+[2022.11.14-05.46.08:601][479]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (802)
+[2022.11.14-05.46.08:601][479]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (800)
+[2022.11.14-05.46.08:601][479]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (798)
+[2022.11.14-05.46.08:601][479]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (796)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (794)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (792)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (790)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.11.14-05.46.08:602][479]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.11.14-05.46.08:603][479]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.11.14-05.46.08:603][479]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.11.14-05.46.08:603][479]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.11.14-05.46.08:605][479]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.11.14-05.46.08:605][479]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.11.14-05.46.08:605][479]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.11.14-05.46.08:609][479]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.11.14-05.46.08:609][479]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.11.14-05.46.08:610][479]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.11.14-05.46.08:610][479]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.11.14-05.46.08:610][479]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.11.14-05.46.08:610][479]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.11.14-05.46.08:610][479]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.11.14-05.46.08:612][479]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.11.14-05.46.08:613][479]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.11.14-05.46.08:615][479]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.11.14-05.46.08:617][479]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.11.14-05.46.08:617][479]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.11.14-05.46.08:617][479]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.11.14-05.46.08:618][479]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.11.14-05.46.08:618][479]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.11.14-05.46.08:667][479]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.11.14-05.46.08:667][479]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.11.14-05.46.08:667][479]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.11.14-05.46.08:667][479]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.11.14-05.46.08:667][479]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.11.14-05.46.08:671][479]MemoryProfiler: Shutdown
+[2022.11.14-05.46.08:672][479]NetworkingProfiler: Shutdown
+[2022.11.14-05.46.08:672][479]LoadingProfiler: Shutdown
+[2022.11.14-05.46.08:673][479]TimingProfiler: Shutdown
+[2022.11.14-05.46.08:675][479]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.11.14-05.46.08:676][479]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.11.14-05.46.08:677][479]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.11.14-05.46.08:677][479]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.11.14-05.46.08:678][479]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.11.14-05.46.08:679][479]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.11.14-05.46.08:680][479]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.11.14-05.46.08:681][479]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.11.14-05.46.08:681][479]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.11.14-05.46.08:682][479]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.11.14-05.46.08:682][479]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.11.14-05.46.08:682][479]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.11.14-05.46.08:683][479]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.11.14-05.46.08:683][479]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.11.14-05.46.08:684][479]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.11.14-05.46.08:685][479]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.11.14-05.46.08:686][479]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.11.14-05.46.08:686][479]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.11.14-05.46.08:687][479]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.11.14-05.46.08:688][479]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.11.14-05.46.08:688][479]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.11.14-05.46.08:688][479]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.11.14-05.46.08:722][479]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.11.14-05.46.08:722][479]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.11.14-05.46.08:723][479]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.11.14-05.46.08:725][479]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.11.14-05.46.08:725][479]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.11.14-05.46.08:726][479]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.11.14-05.46.08:727][479]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.11.14-05.46.08:729][479]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.11.14-05.46.08:731][479]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.11.14-05.46.08:731][479]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.11.14-05.46.08:731][479]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.11.14-05.46.08:769][479]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.11.14-05.46.08:769][479]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.11.14-05.46.08:771][479]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.11.14-05.46.08:771][479]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.11.14-05.46.08:772][479]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.11.14-05.46.08:772][479]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.11.14-05.46.08:772][479]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.11.14-05.46.08:778][479]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.11.14-05.46.08:778][479]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.11.14-05.46.08:778][479]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.11.14-05.46.08:779][479]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.11.14-05.46.08:779][479]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.11.14-05.46.08:779][479]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.11.14-05.46.08:781][479]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.11.14-05.46.08:781][479]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.11.14-05.46.08:781][479]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.11.14-05.46.08:781][479]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.11.14-05.46.08:781][479]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.11.14-05.46.08:781][479]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.11.14-05.46.08:782][479]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.11.14-05.46.08:782][479]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.11.14-05.46.08:782][479]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.11.14-05.46.08:782][479]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.11.14-05.46.08:782][479]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.11.14-05.46.08:783][479]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.11.14-05.46.08:783][479]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.11.14-05.46.08:798][479]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.11.14-05.46.08:981][479]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.11.14-05.46.08:982][479]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.11.14-05.46.08:982][479]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.11.14-05.46.08:987][479]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.11.14-05.46.08:987][479]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.11.14-05.46.08:987][479]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.11.14-05.46.08:987][479]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.11.14-05.46.08:987][479]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.11.14-05.46.08:989][479]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.11.14-05.46.08:989][479]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.11.14-05.46.08:989][479]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.11.14-05.46.08:989][479]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.11.14-05.46.08:989][479]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.11.14-05.46.08:990][479]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2022.11.14-05.46.08:990][479]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (578)
+[2022.11.14-05.46.08:990][479]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (576)
+[2022.11.14-05.46.08:990][479]LogModuleManager: Shutting down and abandoning module OpenXREditor (574)
+[2022.11.14-05.46.08:991][479]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.11.14-05.46.08:991][479]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module AssetTags (564)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.11.14-05.46.08:992][479]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (544)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (542)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2022.11.14-05.46.08:993][479]LogOpenImageDenoise: OIDN shutting down
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (538)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module MotoSynth (536)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (534)
+[2022.11.14-05.46.08:993][479]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (532)
+[2022.11.14-05.46.08:994][479]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (530)
+[2022.11.14-05.46.08:994][479]LogModuleManager: Shutting down and abandoning module MeshConversion (528)
+[2022.11.14-05.46.08:994][479]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2022.11.14-05.46.08:995][479]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2022.11.14-05.46.08:995][479]LogModuleManager: Shutting down and abandoning module GeometricObjects (522)
+[2022.11.14-05.46.08:995][479]LogModuleManager: Shutting down and abandoning module MediaCompositing (520)
+[2022.11.14-05.46.08:995][479]LogModuleManager: Shutting down and abandoning module ImgMedia (518)
+[2022.11.14-05.46.08:995][479]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (516)
+[2022.11.14-05.46.08:996][479]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (514)
+[2022.11.14-05.46.08:996][479]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (513)
+[2022.11.14-05.46.08:996][479]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (510)
+[2022.11.14-05.46.08:996][479]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (508)
+[2022.11.14-05.46.08:996][479]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (506)
+[2022.11.14-05.46.08:996][479]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (504)
+[2022.11.14-05.46.08:997][479]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2022.11.14-05.46.08:998][479]LogModuleManager: Shutting down and abandoning module ChaosNiagara (500)
+[2022.11.14-05.46.08:998][479]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2022.11.14-05.46.08:998][479]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2022.11.14-05.46.08:998][479]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (494)
+[2022.11.14-05.46.09:001][479]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2022.11.14-05.46.09:005][479]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2022.11.14-05.46.09:005][479]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2022.11.14-05.46.09:005][479]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (486)
+[2022.11.14-05.46.09:007][479]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2022.11.14-05.46.09:007][479]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2022.11.14-05.46.09:008][479]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2022.11.14-05.46.09:008][479]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2022.11.14-05.46.09:008][479]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (476)
+[2022.11.14-05.46.09:012][479]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (474)
+[2022.11.14-05.46.09:012][479]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2022.11.14-05.46.09:012][479]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (470)
+[2022.11.14-05.46.09:012][479]LogModuleManager: Shutting down and abandoning module UObjectPlugin (468)
+[2022.11.14-05.46.09:012][479]LogModuleManager: Shutting down and abandoning module PluginBrowser (466)
+[2022.11.14-05.46.09:014][479]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (464)
+[2022.11.14-05.46.09:017][479]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (462)
+[2022.11.14-05.46.09:019][479]LogModuleManager: Shutting down and abandoning module PluginUtils (460)
+[2022.11.14-05.46.09:019][479]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (458)
+[2022.11.14-05.46.09:021][479]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (456)
+[2022.11.14-05.46.09:022][479]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (454)
+[2022.11.14-05.46.09:023][479]LogModuleManager: Shutting down and abandoning module CurveEditorTools (452)
+[2022.11.14-05.46.09:023][479]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (450)
+[2022.11.14-05.46.09:023][479]LogModuleManager: Shutting down and abandoning module CryptoKeys (448)
+[2022.11.14-05.46.09:023][479]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2022.11.14-05.46.09:024][479]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2022.11.14-05.46.09:025][479]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2022.11.14-05.46.09:025][479]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2022.11.14-05.46.09:025][479]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2022.11.14-05.46.09:025][479]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.11.14-05.46.09:025][479]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.11.14-05.46.09:026][479]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.11.14-05.46.09:026][479]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.11.14-05.46.09:026][479]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.11.14-05.46.09:026][479]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.11.14-05.46.09:028][479]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.11.14-05.46.09:028][479]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.11.14-05.46.09:918][479]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.11.14-05.46.09:918][479]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.11.14-05.46.09:918][479]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.11.14-05.46.09:920][479]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.11.14-05.46.09:921][479]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.11.14-05.46.09:922][479]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.11.14-05.46.09:923][479]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.11.14-05.46.09:923][479]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.11.14-05.46.09:923][479]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.11.14-05.46.09:923][479]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.11.14-05.46.09:924][479]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.11.14-05.46.09:924][479]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.11.14-05.46.09:924][479]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.11.14-05.46.09:925][479]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.11.14-05.46.09:925][479]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.11.14-05.46.10:026][479]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.11.14-05.46.10:146][479]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2022.11.14-05.46.10:146][479]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2022.11.14-05.46.10:146][479]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.11.14-05.46.10:146][479]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.11.14-05.46.10:146][479]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.11.14-05.46.10:146][479]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.11.14-05.46.10:146][479]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.11.14-05.46.10:147][479]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.11.14-05.46.10:147][479]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.11.14-05.46.10:147][479]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.11.14-05.46.10:147][479]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.11.14-05.46.10:147][479]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.11.14-05.46.10:148][479]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.11.14-05.46.10:148][479]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.11.14-05.46.10:148][479]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2022.11.14-05.46.10:148][479]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.11.14-05.46.10:148][479]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.11.14-05.46.10:150][479]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.11.14-05.46.10:150][479]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.11.14-05.46.10:153][479]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.11.14-05.46.10:153][479]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.11.14-05.46.10:153][479]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2022.11.14-05.46.10:154][479]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.11.14-05.46.10:154][479]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.11.14-05.46.10:154][479]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2022.11.14-05.46.10:154][479]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2022.11.14-05.46.10:155][479]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2022.11.14-05.46.10:166][479]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2022.11.14-05.46.10:167][479]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2022.11.14-05.46.10:168][479]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2022.11.14-05.46.10:168][479]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (316)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2022.11.14-05.46.10:170][479]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.11.14-05.46.10:171][479]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.11.14-05.46.10:172][479]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.11.14-05.46.10:214][479]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.11.14-05.46.10:214][479]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.11.14-05.46.10:214][479]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.11.14-05.46.10:214][479]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.11.14-05.46.10:214][479]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.11.14-05.46.10:216][479]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.11.14-05.46.10:216][479]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.11.14-05.46.10:216][479]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.11.14-05.46.10:216][479]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.11.14-05.46.10:217][479]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.11.14-05.46.10:217][479]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.11.14-05.46.10:217][479]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.11.14-05.46.10:219][479]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.11.14-05.46.10:219][479]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.11.14-05.46.10:221][479]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.11.14-05.46.10:223][479]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.11.14-05.46.10:224][479]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.11.14-05.46.10:226][479]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.11.14-05.46.10:226][479]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.11.14-05.46.10:229][479]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.11.14-05.46.10:229][479]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.11.14-05.46.10:232][479]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.11.14-05.46.10:232][479]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.11.14-05.46.10:232][479]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.11.14-05.46.10:233][479]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.11.14-05.46.10:233][479]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.11.14-05.46.10:233][479]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.11.14-05.46.10:233][479]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.11.14-05.46.10:233][479]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.11.14-05.46.10:233][479]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.11.14-05.46.10:235][479]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.11.14-05.46.10:237][479]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.11.14-05.46.10:238][479]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.11.14-05.46.10:240][479]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.11.14-05.46.10:250][479]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.11.14-05.46.10:250][479]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.11.14-05.46.10:250][479]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.11.14-05.46.10:251][479]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.11.14-05.46.10:252][479]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.11.14-05.46.10:252][479]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.11.14-05.46.10:252][479]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.11.14-05.46.10:253][479]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.11.14-05.46.10:255][479]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.11.14-05.46.10:256][479]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.11.14-05.46.10:257][479]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.11.14-05.46.10:257][479]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.11.14-05.46.10:257][479]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.11.14-05.46.10:260][479]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.11.14-05.46.10:262][479]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.11.14-05.46.10:263][479]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.11.14-05.46.10:264][479]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.11.14-05.46.10:264][479]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.11.14-05.46.10:265][479]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.11.14-05.46.10:266][479]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.11.14-05.46.10:266][479]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.11.14-05.46.10:266][479]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.11.14-05.46.10:267][479]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.11.14-05.46.10:267][479]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.11.14-05.46.10:268][479]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.11.14-05.46.10:270][479]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.11.14-05.46.10:270][479]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.11.14-05.46.10:271][479]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.11.14-05.46.10:271][479]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.11.14-05.46.10:271][479]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.11.14-05.46.10:272][479]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.11.14-05.46.10:272][479]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.11.14-05.46.10:272][479]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.11.14-05.46.10:273][479]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.11.14-05.46.10:297][479]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.11.14-05.46.10:297][479]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.11.14-05.46.10:297][479]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.11.14-05.46.10:298][479]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.11.14-05.46.10:298][479]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.11.14-05.46.10:331][479]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.11.14-05.46.10:331][479]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.11.14-05.46.10:331][479]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.11.14-05.46.10:331][479]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.11.14-05.46.10:332][479]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.11.14-05.46.10:332][479]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.11.14-05.46.10:333][479]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.11.14-05.46.10:334][479]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.11.14-05.46.10:334][479]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.11.14-05.46.10:356][479]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.11.14-05.46.10:412][479]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.11.14-05.46.10:413][479]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.11.14-05.46.10:413][479]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.11.14-05.46.10:413][479]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.11.14-05.46.10:416][479]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.11.14-05.46.10:448][479]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.11.14-05.46.10:448][479]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.11.14-05.46.10:449][479]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.11.14-05.46.10:449][479]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.11.14-05.46.10:449][479]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.11.14-05.46.10:450][479]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.11.14-05.46.10:450][479]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.11.14-05.46.10:450][479]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.11.14-05.46.10:451][479]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.14-05.46.10:451][479]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.11.14-05.46.10:451][479]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2022.11.14-05.46.10:451][479]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2022.11.14-05.46.10:451][479]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (104)
+[2022.11.14-05.46.10:456][479]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.14-05.46.10:458][479]LogModuleManager: Shutting down and abandoning module OpenXRHMD (103)
+[2022.11.14-05.46.10:463][479]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (100)
+[2022.11.14-05.46.10:463][479]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.11.14-05.46.10:463][479]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.11.14-05.46.10:464][479]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.11.14-05.46.10:464][479]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.11.14-05.46.10:464][479]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.11.14-05.46.10:467][479]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.11.14-05.46.10:468][479]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.11.14-05.46.10:486][479]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.11.14-05.46.10:487][479]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.11.14-05.46.10:487][479]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5DA713FB-4624-BC3E-64E7-CA816AC5FCF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=55784371482d9dc4200041b5bf2276ca%7Ce3cad16dd57a483db8ed94e0d127fa85%7Cf6f77c30-da3f-4c5a-bcb9-1bf3b6ed7b35&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.14-05.46.10:487][479]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.11.14-05.46.10:556][479]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.11.14-05.46.10:574][479]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2022.11.14-05.46.10:574][479]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2022.11.14-05.46.10:574][479]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.11.14-05.46.10:581][479]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.11.14-05.46.10:583][479]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.11.14-05.46.10:583][479]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.11.14-05.46.10:584][479]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.11.14-05.46.10:585][479]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.11.14-05.46.10:585][479]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.11.14-05.46.10:585][479]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.11.14-05.46.10:585][479]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.11.14-05.46.10:586][479]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.11.14-05.46.10:586][479]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.11.14-05.46.10:586][479]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.11.14-05.46.10:588][479]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.11.14-05.46.10:589][479]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.11.14-05.46.10:589][479]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.11.14-05.46.10:589][479]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.11.14-05.46.10:589][479]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.11.14-05.46.10:590][479]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.11.14-05.46.10:591][479]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.11.14-05.46.10:591][479]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.11.14-05.46.10:595][479]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.11.14-05.46.10:598][479]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.14-05.46.10:599][479]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.14-05.46.10:599][479]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.14-05.46.10:599][479]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.14-05.46.10:606][479]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.14-05.46.10:607][479]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.14-05.46.10:609][479]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.14-05.46.10:609][479]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.14-05.46.10:609][479]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.14-05.46.10:609][479]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.14-05.46.10:609][479]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.14-05.46.10:610][479]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.14-05.46.10:610][479]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.14-05.46.10:610][479]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.14-05.46.10:612][479]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.14-05.46.10:656][479]LogD3D11RHI: Shutdown
+[2022.11.14-05.46.10:656][479]LogD3D11RHI: CleanupD3DDevice
+[2022.11.14-05.46.10:747][479]LogExit: Exiting.
+[2022.11.14-05.46.10:785][479]Log file closed, 11/13/22 23:46:10
